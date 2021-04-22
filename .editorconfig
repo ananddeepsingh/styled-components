@@ -1,0 +1,13 @@
+[*]
+indent_style = space
+
+[*.{js,ts,json}]
+indent_size = 2
+
+[javascript]: { 
+  "editor.formatOnSave": true 
+}
+editor.formatOnSave =  true
+trim_trailing_whitespace = true
+insert_final_newline = true
+end_of_line = true
